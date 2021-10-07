@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Oct 2021 19:53:50 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 07 Oct 2021 19:53:50 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>#这是我的第一篇博客 ##在作业进行的过程中，对github,以及hugo的不熟悉。只有通过查阅资料以及通过老师的资料进行学习，同时在通过命令行进行打开文件，创建博客时具体语法不熟悉的问题皆通过老师给出视频解决。</description>
+    </item>
+    
+  </channel>
+</rss>
